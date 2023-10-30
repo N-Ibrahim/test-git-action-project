@@ -26,4 +26,4 @@ jobs:
         
     - name: Test with unittest
       run: |
-        python -m unittest test_program.py
+        python -m unittest test_Program.py
